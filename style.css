@@ -1,0 +1,221 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: black;
+    height: 90px;
+    margin-top: 10px;
+}
+#logo{
+    font-size: 25px;
+    color: yellow;
+}
+
+li,a{
+
+    color: whitesmoke;
+    display: inline;
+    padding: 10px;
+    margin-right: 40px;
+    text-decoration: none;
+}
+
+
+
+
+li,a:hover{
+    color: red;
+  
+    font-weight: 25px;
+    font-size: 25px;
+} 
+li:hover{
+    text-decoration: underline 4px;
+}  
+footer{
+    color: whitesmoke;
+    background-color: black;
+    margin-top: 2px;
+    position: static;
+    float: top;
+}    
+body{
+    background-color: peru;
+}
+.contactme{
+    background-image: url(gmail.png);
+}
+span{
+    padding:15px;
+    
+}
+
+.banner1{
+    background-image: url(banner1.png);
+}
+.center{
+    text-align: center;
+    margin: 300px;
+}
+.container{
+    height: 400px;
+    width: 1600px;
+    background-color:transparent;
+    border: 24px solid black;
+    margin-top: 70px;
+    display: flex;
+    align-items: left;
+    justify-content:left;
+    display: flex;
+}
+.item1{
+    background-color:lightblue;
+    height: 320px;
+    width: 250px;
+    margin-top: 6px;
+    padding-top: 8px;
+    text-align: center;
+    
+}
+.item2{
+    background-color:lightblue;
+    height: 320px;
+    width: 250px;
+    margin-top: 6px;
+    margin-left: 8px;
+    padding-top: 10px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.item3{
+    background-color:lightblue;
+    height: 320px;
+    width: 250px;
+    margin-top: 6px;
+    margin-left: 8px;
+    text-align: center;
+    padding-top: 5px;
+}
+.item4{
+    background-color:lightblue;
+    height: 320px;
+    width: 250px;
+    
+    margin-top: 6px;
+    margin-left: 8px;
+    text-align: center;
+    padding-top: 5px;
+}
+.item5{
+    background-color:lightblue;
+    height: 320px;
+    width: 250px;
+    margin-top: 6px;
+    margin-left: 8px;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+.item6{
+    background-color:lightblue;
+    height: 320px;
+    width: 250px;
+    margin-top: 6px;
+    margin-left: 8px;
+    text-align: center;
+    padding-top: 5px;
+    
+}
+.container1{
+    height: 400px;
+    width: 1600px;
+    background-color:transparent;
+    border: 24px solid black;
+    margin-top: 30px;
+    display: flex;
+    align-items: left;
+    justify-content:left;
+    display: flex;
+    
+   
+}
+.item7{
+    background-color:lightblue;
+    height: 320px;
+    width: 250px;
+   padding-left:8px;
+   margin-left: 8px;
+   margin-top: 8px;
+   padding-top: 10px;
+   text-align: center;
+   
+}  
+    
+.item8{
+    background-color:lightblue;
+    height: 320px;
+    width: 250px;
+    margin-top: 6px;
+    padding-top: 8px;
+    text-align: center;
+    margin-left: 10px;
+}   
+    
+.item9{
+    background-color:lightblue;
+    height: 320px;
+    width: 250px;
+    margin-top: 6px;
+    padding-top: 8px;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+.item10{
+    background-color:lightblue;
+    height: 320px;
+    width: 250px;
+    margin-top: 6px;
+    padding-top: 8px;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+.item11{
+    background-color:lightblue;
+    height: 320px;
+    width: 250px;
+    margin-top: 6px;
+    padding-top: 8px;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+.item12{
+    background-color:lightblue;
+    height: 320px;
+    width: 250px;
+    margin-top: 6px;
+    padding-top: 8px;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+h1{
+    color: rgb(56, 56, 107);
+}
+button{
+    background-color: rgb(56,56,107);
+    
+}
+h1:hover{
+    background-color: rgb(24, 24, 48);
+    color: whitesmoke;
+
+}
+button:hover{
+    font-size: 15px;
+    color: aquamarine;
+}
